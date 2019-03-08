@@ -1,0 +1,119 @@
+0
+Issues0
+Marketplace0
+Topics0
+Wikis0
+Users0
+Languages
+6,256 Objective-C
+5,142 Text
+103 MediaWiki
+52 CSV
+50 XML
+12 INI
+4 JSON
+2 Batchfile
+2 C
+2 SQL
+Advanced search 
+11,649 code results
+@MikeMosher
+MikeMosher/ProphetTranscendence – BoardingItems.xml
+Showing the top four matches Last indexed on Jun 25, 2018
+XML
+			<DefHP>5</DefHP>
+			<Hacker>10</Hacker>
+			<Stealth>0</Stealth>
+			<Psionic>0</Psionic>
+			<Demolition>0</Demolition>
+			<Stealth>4</Stealth>
+			<Psionic>0</Psionic>
+			<Demolition>0</Demolition>
+			<Repair>4</Repair>
+			<Recon>8</Recon>
+@edimarmanica
+edimarmanica/intrasite – rule_461.csv
+Showing the top two matches Last indexed on Jul 2, 2018
+CSV
+"/sdd/edimar/Desktop/doutorado/doutorado04/bases/WEIR/videogame/www.metacritic.com/psx_starwarsdemolition.html","Blowing stuff up in Demolition is definitely fun in all its Star Wars glory, but the more you play, the more you'll notice the imbalance in gameplay."
+"/sdd/edimar/Desktop/doutorado/doutorado04/bases/WEIR/videogame/www.metacritic.com/xbox360_digdug.html","As much as we would have loved to have seen some sort of new co-op mode or something, Dig Dug is still retro gaming at its best."
+@MikeMosher
+MikeMosher/ProphetTranscendence – BoardingDS.xml
+Showing the top two matches Last indexed on Jun 25, 2018
+XML
+     credits="Mike Mosher (Prophet), alterecco, digdug, bobby,"
+	 >
+
+    <ItemType UNID="&itBoardingAdvertiser;"
+        name=       "Boarding Parties Advertiser"
+										" SKILLS - Hacker:"(itmGetStaticData troop 'Hacker)" Stealth:"(itmGetStaticData troop 'Stealth)
+										" Psionic:"(itmGetStaticData troop 'Psionic)" Demolition:"(itmGetStaticData troop 'Demolition)
+@TobiasKoller
+TobiasKoller/RomSetManager – Atari 2600.txt
+Showing the top two matches Last indexed on Jul 9, 2018
+Text
+Death Trap
+Decathlon
+Deep Pockets-Super Pro Pool and Billiards
+Defender
+Defender II
+Demolition Herby
+Demon Attack
+Die Unterwasser Bestien
+Dig Dug
+DigDug
+Dishaster
+Dodge 'Em (Dodger Cars)
+Dolphin
+Donald Duck's Speedboat
+Donkey Kong
+Donkey Kong Junior
+@open-austin
+open-austin/construction-permits – 2014-06-04.csv
+Showing the top two matches Last indexed on Jul 1, 2018
+CSV
+2013-004727 DS,Res. Driveway & Sidewalk,New,4505 HANK AVE UNIT B,06/04/2014,"Residential driveway approach 21', sidewalk; new.",Final,"Chris J Harrison, DigDug Construction, LLC",,,,,,AUSTIN,TX,78709,(512) 626-4020,,,,,,,,,,,,,,,,,0,,30.22224502,-97.78091282
+2013-083180 DS,Res. Driveway & Sidewalk,New,4306 HANK AVE UNIT B,06/04/2014,"Residential driveway approach 12', sidewalk; new.",Final,"Chris J Harrison, DigDug Construction, LLC",,,,,,AUSTIN,TX,78709,(512) 626-4020,,,,,,,,,,,,,,,,,0,,30.22564405,-97.77951498
+@open-austin
+open-austin/construction-permits – 2015-01-21.csv
+Showing the top two matches Last indexed on Jul 1, 2018
+CSV
+2013-117858 PP,Residential,Remodel,1705 COLLIER ST,01/21/2015,Total demolition of cr. 1951 sf res. Cap off water/wastewater lines.,Final,"William Kemp, Longhorn Pipework, LLC",12817,Covington,TRL,,,AUSTIN,TX,78727,(512) 299-4270,MOCKLEY ROBERT E II,,,,,,AUSTIN,TX,78704,,,,,,,1,0,LOT 1 BLK F BARTON HEIGHTS B,30.25350634,-97.7691306
+2014-065908 DS,"Res. Driveway, Sidewalk, Curb, Gutter",New,912 MORROW ST,01/21/2015,"Construct new sidewalk and driveway approach. Install 15 LF new C&G.**nmt Primary residence 3 bedrooms, 2.5, baths, attached garage.",Final,"Chris J Harrison, DigDug Construction, LLC",,,,,,AUSTIN,TX,78709,(512) 626-4020,,,,,,,,,,,,,,,,,0,E 54.4FT OF LOT 31 BLK B NORTHGATE ADDN,30.34521098,-97.71699683
+@open-austin
+open-austin/construction-permits – 2014-05-02.csv
+Showing the top two matches Last indexed on Jul 1, 2018
+CSV
+2014-013207 DS,Res. Driveway & Sidewalk,New,7602 CARVER AVE,05/02/2014,"Construct new sidewalk and driveway approach.**nmt New 1 story Sf residence; 4 bedrooms, 3 baths, new driveway, covered front porch and covered back patio",Final,"Chris J Harrison, DigDug Construction, LLC",,,,,,AUSTIN,TX,78709,(512) 626-4020,,,,,,,,,,,,,,,,,0,,30.33556538,-97.69664169
+2014-036769 EP,R- 434 Addition & Alterations,Addition and Remodel,11208 BARRINGTON WAY,05/02/2014,Partial demolition and addition with interior remodel and alterations to remaining house.,Final,"Patrick Sisti, Austin's Town And Country Electric Co., Inc.",6413,Sailing Breeze,TRL,,,Austin,TX,78744,(512) 745-1412,,,,,,,,,,,2186,160,,,,1,0,LOT 6 BLK EE BARRINGTON OAKS SEC 8,30.42319362,-97.77407693
+@open-austin
+open-austin/construction-permits – 2015-02-02.csv
+Showing the top two matches Last indexed on Jul 1, 2018
+CSV
+2014-054793 MP,R- 434 Addition & Alterations,Addition and Remodel,2504 RAE DELL AVE,02/02/2015,"Partial demolition included. Addition/Remodel of existing single-story residence adding 876sf of new attached garage on the first floor, 876sf of new second floor area, and 68sf of balcony. Remodel work for tying in new addition per plans. Upon completion two-story residence will have 3 bedrooms and 2 bathrooms.",Final,"Leslie E. Wallace III, Intelligent Air Services",,,,,,Austin,TX,78766,(512) 323-2500,VASQUEZ MELBA J T,,,,,,AUSTIN,TX,78746 7988,,1130,1820,,,,1,0,LOT 3 BLK 12 RABB INWOOD HILLS,30.24865372,-97.78133618
+2014-112771 EP,R- 435 Renovations/Remodel,Remodel,2009 EATON LN,02/02/2015,"Interior Remodel. Partial Demolition. Remodel of kitchen, unconditioned storage space, and carport. Four wood carport columns replaced with steel. Portion of kitchen exterior wall remodeled to allow for new double storm door. Portion of exterior utility room wall remodeled to allow for new window. Two exterior walls of unconditioned storage room partially demolished as to remodel into covered patio. Two existing front windows replaced with new. Portion of interior kitchen wall remodeled to open up kitchen space. Kitchen remodel includes cabinets and finishes of walls and floors and updating appliances. Also upgrading electrical service",Final,"Ryan T Smith, Smith Electric",7316,DERBY DOWNS,DR,,,AUSTIN,TX,78747,(512) 897-8533,WITHEY ELIZABETH L,,,,,,AUSTIN,TX,78723 2035,,,,,,400,1,0,Lot: 12 Block: A Subdivision:,30.31399654,-97.68642465
+@open-austin
+open-austin/construction-permits – 2014-12-15.csv
+Showing the top three matches Last indexed on Jul 1, 2018
+CSV
+2013-115123 DS,Res. Driveway,Repair,2815 GARWOOD ST,12/15/2014,Demo existing asphalt driveway approach. Construct new concrete driveway approach in same location. Shall meet all city standards. Sidewalk fee to be paid in lieu of construction.**nmt interior remodel,Final,"Chris J Harrison, DigDug Construction, LLC",,,,,,AUSTIN,TX,78709,(512) 626-4020,,,,,,,,,,,,,,,,,0,LOT 19 BLK 1 OLT 26-27 DIV A CHERNOSKY NO 11,30.26069016,-97.70841993
+2014-080615 MP,R- 101 Single Family Houses,New,4006 TILLEY ST,12/15/2014,"New 2-story single-family residence, attached garage, covered entry porch. **VOL BUILD PROJECT** **RESOLUTION #20071129-100 WAIVES FEES FOR THIS SMART HOUSING PROJECT**.",Final,"Steven Layne Key,",13718,Lookout,DR,,,San Antonio,TX,78237,(210) 650-3380,,,,,,,,,,,,1910,,,,1,0,LOT 24 BLK 97 MUELLER SEC VII-C SUBD AMENDED,30.29253827,-97.6954025
+2014-081983 BP,R- 645 Demolition One Family Homes,Demolition,3206 BEANNA ST,12/15/2014,Total demo of home and detached building. Circa 1954,Final,"Shiloh Travis, Shiloh Travis Homes",3707,BASFORD,RD,,,AUSTIN,TX,78722,(979) 249-3474,BALLARD FAMILY TRUST,,,,,,AUSTIN,TX,78705 2510,,3000,,,9500,,1,0,Lot: 4 Block: Subdivision:,30.29276235,-97.72851535
+@open-austin
+open-austin/construction-permits – 2014-10-20.csv
+Showing the top two matches Last indexed on Jul 1, 2018
+CSV
+2013-124145 DS,Res. Driveway,New,3504 SPEEDWAY,10/20/2014,Construct new driveway approach from alley.**nmt new garage apartment,Final,"Chris J Harrison, DigDug Construction, LLC",,,,,,AUSTIN,TX,78709,(512) 626-4020,3504 SPEEDWAY LLC & MICHAEL SAID,,,,,,AUSTIN,TX,78705,,,,,,,,0,Lot: 3 Block: Subdivision: SIMMS PAUL O E 1/2 OF BLK 2,30.29986047,-97.73431428
+2014-014561 EP,R- 434 Addition & Alterations,Addition and Remodel,1701 PRINCETON AVE,10/20/2014,Partial demolition of the left side wall and new addition/remodel to extend living room and master bedroom and bathroom. Also upgrading the electrical service.,Final,"Johnny Peralez, GMT Electric",180,Abbott,DR,,,Austin,TX,78737,(512) 417-2148,GARCIA MIGUEL R,,,,,,AUSTIN,TX,78758 3323,,1433,328,,,,1,0,LOT 30 BLK 2 CRESTVIEW ADDN SEC 10,30.34983795,-97.72459882
+© 2019 GitHub, Inc.
+Terms
+Privacy
+Security
+Status
+Help
+Contact GitHub
+Pricing
+API
+Training
+Blog
+About
